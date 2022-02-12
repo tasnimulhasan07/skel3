@@ -85,13 +85,13 @@ a:hover {
   }
 }
 
-  .homepage {
-    background-image: url("image/backimg.png");
-    background-repeat: no-repeat;
-    background-size: cover;
-    margin: auto;
-    overflow: hidden;
-    min-height: 600px;
+.homepage {
+  background-image: url("image/backimg.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: auto;
+  overflow: hidden;
+  min-height: 600px;
 }
 
 .introduction {
