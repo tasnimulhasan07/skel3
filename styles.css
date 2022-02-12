@@ -85,8 +85,13 @@ a:hover {
   }
 }
 
-.homepage {
-  height: 718px;
+  .homepage {
+    background-image: url("image/backimg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    overflow: hidden;
+    min-height: 600px;
 }
 
 .introduction {
