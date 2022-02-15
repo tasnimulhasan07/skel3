@@ -1,6 +1,6 @@
 # Mobile-Protfolio
 
-This site will be used as a mobile application to show off Tasnimul Hasan' protfolio, here he will display all projects that he worked on previously to prove his programming skills.
+This site will be used as a mobile application to show off Tasnimul Hasan' portfolio, here he will display all projects that he worked on previously to prove his programming skills.
 ______________
 # Built With <br>
 HTML and CSS <br>
